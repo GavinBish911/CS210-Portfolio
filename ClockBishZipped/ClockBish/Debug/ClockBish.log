@@ -1,0 +1,7 @@
+﻿  ClockTime.cpp
+C:\Users\gavinbish_snhu\source\repos\ClockBish\ClockBish\ClockTime.cpp(9,14): error C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Main.cpp
+C:\Users\gavinbish_snhu\source\repos\ClockBish\ClockBish\Main.cpp(44,3): error C2143: syntax error: missing ';' before 'switch'
+C:\Users\gavinbish_snhu\source\repos\ClockBish\ClockBish\Main.cpp(56,5): error C2065: 'default': undeclared identifier
+C:\Users\gavinbish_snhu\source\repos\ClockBish\ClockBish\Main.cpp(57,6): error C2143: syntax error: missing ';' before 'break'
+  Generating Code...
